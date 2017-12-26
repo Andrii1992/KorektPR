@@ -1,0 +1,260 @@
+c:\users\ev\source\repos\Pizza_Exspress_plus\Pizza_Exspress_plus\bin\Debug\Pizza_Exspress_plus.exe.config
+c:\users\ev\source\repos\Pizza_Exspress_plus\Pizza_Exspress_plus\bin\Debug\Pizza_Exspress_plus.exe
+c:\users\ev\source\repos\Pizza_Exspress_plus\Pizza_Exspress_plus\bin\Debug\Pizza_Exspress_plus.pdb
+c:\users\ev\source\repos\Pizza_Exspress_plus\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.Form1.resources
+c:\users\ev\source\repos\Pizza_Exspress_plus\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.Properties.Resources.resources
+c:\users\ev\source\repos\Pizza_Exspress_plus\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.csproj.GenerateResource.Cache
+c:\users\ev\source\repos\Pizza_Exspress_plus\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.csproj.CoreCompileInputs.cache
+c:\users\ev\source\repos\Pizza_Exspress_plus\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.exe
+c:\users\ev\source\repos\Pizza_Exspress_plus\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.pdb
+c:\users\ev\source\repos\Pizza_Exspress_plus\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.Dostawa.resources
+c:\users\ev\source\repos\Pizza_Exspress_plus\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.Menu.resources
+C:\Users\Ev\source\repos\Pizza_Exspress_plus\Pizza_Exspress_plus\bin\Debug\EntityFramework.dll
+C:\Users\Ev\source\repos\Pizza_Exspress_plus\Pizza_Exspress_plus\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ev\source\repos\Pizza_Exspress_plus\Pizza_Exspress_plus\bin\Debug\EntityFramework.xml
+C:\Users\Ev\source\repos\Pizza_Exspress_plus\Pizza_Exspress_plus\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ev\source\repos\Pizza_Exspress_plus\Pizza_Exspress_plus\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Ev\source\repos\Pizza_Exspress_plus\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.NAPOJE_P.resources
+C:\Users\Ev\source\repos\Pizza_Exspress_plus\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PIZZE_P.resources
+C:\Users\Ev\source\repos\Pizza_Exspress_plus\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.SOUSE_P.resources
+C:\Users\Ev\source\repos\Pizza_Exspress_plus\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PROMOJE.resources
+C:\Users\Ev\source\repos\Pizza_Exspress_plus\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.Zamowienie.resources
+C:\Users\Ev\source\repos\Pizza_Exspress_plus\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.Lista.resources
+C:\Users\Ev\source\repos\Pizza_Exspress_plus\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.csprojResolveAssemblyReference.cache
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus\Pizza_Exspress_plus\bin\Debug\Pizza_Exspress_plus.exe.config
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus\Pizza_Exspress_plus\bin\Debug\Pizza_Exspress_plus.exe
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus\Pizza_Exspress_plus\bin\Debug\Pizza_Exspress_plus.pdb
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus\Pizza_Exspress_plus\bin\Debug\EntityFramework.dll
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus\Pizza_Exspress_plus\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus\Pizza_Exspress_plus\bin\Debug\EntityFramework.xml
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus\Pizza_Exspress_plus\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus\Pizza_Exspress_plus\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.Properties.Resources.resources
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.csproj.GenerateResource.Cache
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.csproj.CoreCompileInputs.cache
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.exe
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.pdb
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PELista.resources
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEmenuKartaGotowka.resources
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEPodKarta.resources
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEPodsumowanieReszta.resources
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PENnapoje.resources
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEPizze.resources
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEPromoje.resources
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PESouse.resources
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEZakrycieMenu.resources
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEZakrycieKartaGMenu.resources
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEZamowienie.resources
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.FDostawa.resources
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.FOdbior.resources
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.FStart.resources
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.FMenu.resources
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEZakrycieFstrart.resources
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.csprojResolveAssemblyReference.cache
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus - teraz 3\Pizza_Exspress_plus\bin\Debug\Pizza_Exspress_plus.exe.config
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus - teraz 3\Pizza_Exspress_plus\bin\Debug\Pizza_Exspress_plus.exe
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus - teraz 3\Pizza_Exspress_plus\bin\Debug\Pizza_Exspress_plus.pdb
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus - teraz 3\Pizza_Exspress_plus\bin\Debug\EntityFramework.dll
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus - teraz 3\Pizza_Exspress_plus\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus - teraz 3\Pizza_Exspress_plus\bin\Debug\EntityFramework.xml
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus - teraz 3\Pizza_Exspress_plus\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus - teraz 3\Pizza_Exspress_plus\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus - teraz 3\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.csprojResolveAssemblyReference.cache
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus - teraz 3\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.FMenu.resources
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus - teraz 3\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.FDostawa.resources
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus - teraz 3\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.FOdbior.resources
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus - teraz 3\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEmenuKartaGotowka.resources
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus - teraz 3\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEPodKarta.resources
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus - teraz 3\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEPodsumowanieReszta.resources
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus - teraz 3\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.FStart.resources
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus - teraz 3\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PENnapoje.resources
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus - teraz 3\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEPizze.resources
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus - teraz 3\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEPromoje.resources
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus - teraz 3\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEZakrycieFstrart.resources
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus - teraz 3\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.Properties.Resources.resources
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus - teraz 3\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PESouse.resources
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus - teraz 3\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PELista.resources
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus - teraz 3\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEZakrycieMenu.resources
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus - teraz 3\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEZakrycieKartaGMenu.resources
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus - teraz 3\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEZamowienie.resources
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus - teraz 3\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.csproj.GenerateResource.Cache
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus - teraz 3\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.csproj.CoreCompileInputs.cache
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus - teraz 3\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.exe
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus - teraz 3\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.pdb
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus - teraz 3\Pizza_Exspress_plus\bin\Debug\Pizza_Exspress_plus.exe.manifest
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus - teraz 3\Pizza_Exspress_plus\bin\Debug\Pizza_Exspress_plus.application
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus - teraz 3\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.exe.manifest
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus - teraz 3\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.application
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\bin\Debug\Pizza_Exspress_plus.exe.config
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\bin\Debug\Pizza_Exspress_plus.exe.manifest
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\bin\Debug\Pizza_Exspress_plus.application
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\bin\Debug\Pizza_Exspress_plus.exe
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\bin\Debug\Pizza_Exspress_plus.pdb
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\bin\Debug\EntityFramework.dll
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\bin\Debug\EntityFramework.xml
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.csprojResolveAssemblyReference.cache
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.FMenu.resources
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.FDostawa.resources
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.FOdbior.resources
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEmenuKartaGotowka.resources
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEPodKarta.resources
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEPodsumowanieReszta.resources
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.FStart.resources
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PENnapoje.resources
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEPizze.resources
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEPromoje.resources
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEZakrycieFstrart.resources
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.Properties.Resources.resources
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PESouse.resources
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PELista.resources
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEZakrycieMenu.resources
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEZakrycieKartaGMenu.resources
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEZamowienie.resources
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.csproj.GenerateResource.Cache
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.csproj.CoreCompileInputs.cache
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.exe.manifest
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.application
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.exe
+C:\Users\Ev\Desktop\Proekt_pizza\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.pdb
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\bin\Debug\Pizza_Exspress_plus.exe.config
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\bin\Debug\Pizza_Exspress_plus.exe.manifest
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\bin\Debug\Pizza_Exspress_plus.application
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\bin\Debug\Pizza_Exspress_plus.exe
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\bin\Debug\Pizza_Exspress_plus.pdb
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\bin\Debug\EntityFramework.dll
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\bin\Debug\EntityFramework.xml
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.csprojResolveAssemblyReference.cache
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.FMenu.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.FDostawa.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.FOdbior.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEmenuKartaGotowka.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEPodKarta.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEPodsumowanieReszta.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.FStart.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PENnapoje.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEPizze.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEPromoje.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEZakrycieFstrart.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.Properties.Resources.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PESouse.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PELista.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEZakrycieMenu.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEZakrycieKartaGMenu.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEZamowienie.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.csproj.GenerateResource.Cache
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.csproj.CoreCompileInputs.cache
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.exe.manifest
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.application
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.exe
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.pdb
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.ABHelp.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия - копия\Pizza_Exspress_plus\bin\Debug\Pizza_Exspress_plus.exe.config
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия - копия\Pizza_Exspress_plus\bin\Debug\Pizza_Exspress_plus.exe.manifest
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия - копия\Pizza_Exspress_plus\bin\Debug\Pizza_Exspress_plus.application
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия - копия\Pizza_Exspress_plus\bin\Debug\Pizza_Exspress_plus.exe
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия - копия\Pizza_Exspress_plus\bin\Debug\Pizza_Exspress_plus.pdb
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия - копия\Pizza_Exspress_plus\bin\Debug\EntityFramework.dll
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия - копия\Pizza_Exspress_plus\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия - копия\Pizza_Exspress_plus\bin\Debug\EntityFramework.xml
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия - копия\Pizza_Exspress_plus\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия - копия\Pizza_Exspress_plus\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.csprojResolveAssemblyReference.cache
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.ABHelp.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.FMenu.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.FDostawa.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.FOdbior.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEmenuKartaGotowka.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEPodKarta.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEPodsumowanieReszta.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.FStart.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PENnapoje.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEPizze.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEPromoje.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEZakrycieFstrart.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.Properties.Resources.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PESouse.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PELista.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEZakrycieMenu.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEZakrycieKartaGMenu.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEZamowienie.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.csproj.GenerateResource.Cache
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.csproj.CoreCompileInputs.cache
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.exe.manifest
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.application
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.exe
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003 - копия - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.pdb
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE\Pizza_Exspress_plus\bin\Debug\Pizza_Exspress_plus.exe.config
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE\Pizza_Exspress_plus\bin\Debug\Pizza_Exspress_plus.exe.manifest
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE\Pizza_Exspress_plus\bin\Debug\Pizza_Exspress_plus.application
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE\Pizza_Exspress_plus\bin\Debug\Pizza_Exspress_plus.exe
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE\Pizza_Exspress_plus\bin\Debug\Pizza_Exspress_plus.pdb
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE\Pizza_Exspress_plus\bin\Debug\EntityFramework.dll
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE\Pizza_Exspress_plus\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE\Pizza_Exspress_plus\bin\Debug\EntityFramework.xml
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE\Pizza_Exspress_plus\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE\Pizza_Exspress_plus\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.csprojResolveAssemblyReference.cache
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.ABHelp.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.FMenu.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.FDostawa.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.FOdbior.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEmenuKartaGotowka.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEPodKarta.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEPodsumowanieReszta.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.FStart.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PENnapoje.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEPizze.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEPromoje.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEZakrycieFstrart.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.Properties.Resources.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PESouse.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PELista.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEZakrycieMenu.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEZakrycieKartaGMenu.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEZamowienie.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.csproj.GenerateResource.Cache
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.csproj.CoreCompileInputs.cache
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.exe.manifest
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.application
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.exe
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.pdb
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE - копия\Pizza_Exspress_plus\bin\Debug\Pizza_Exspress_plus.exe.config
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE - копия\Pizza_Exspress_plus\bin\Debug\Pizza_Exspress_plus.exe.manifest
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE - копия\Pizza_Exspress_plus\bin\Debug\Pizza_Exspress_plus.application
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE - копия\Pizza_Exspress_plus\bin\Debug\Pizza_Exspress_plus.exe
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE - копия\Pizza_Exspress_plus\bin\Debug\Pizza_Exspress_plus.pdb
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE - копия\Pizza_Exspress_plus\bin\Debug\EntityFramework.dll
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE - копия\Pizza_Exspress_plus\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE - копия\Pizza_Exspress_plus\bin\Debug\EntityFramework.xml
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE - копия\Pizza_Exspress_plus\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE - копия\Pizza_Exspress_plus\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.csprojResolveAssemblyReference.cache
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.FMenu.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.FDostawa.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.FOdbior.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEmenuKartaGotowka.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEPodKarta.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEPodsumowanieReszta.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.FStart.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PENnapoje.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEPizze.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEPromoje.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEZakrycieFstrart.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.Properties.Resources.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PESouse.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PELista.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEZakrycieMenu.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEZakrycieKartaGMenu.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.PEZamowienie.resources
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.csproj.GenerateResource.Cache
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.csproj.CoreCompileInputs.cache
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.exe.manifest
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.application
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.exe
+C:\Users\Ev\Desktop\Новая папка (4)\Pizza_Exspress_plus_003_ELEGANSKIE - копия\Pizza_Exspress_plus\obj\Debug\Pizza_Exspress_plus.pdb
